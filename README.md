@@ -20,7 +20,7 @@ Few-Shot Class-Incremental Learning (FSCIL) aims to continuously learn new class
 ## Pipline
 The whole learning pipline of our model:
 
-<img src='imgs/pipeline.png' width='900' height='454'>
+<img src='imgs/pipeline.png' width='900' height='453'>
 
 ## Results
 <img src='imgs/results.jpg' width='900' height='280'>
