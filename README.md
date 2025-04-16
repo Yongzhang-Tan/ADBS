@@ -1,5 +1,5 @@
 # Adaptive Decision Boundary for Few-Shot Class-Incremental Learning（ADBS）
-The code repository for "Adaptive Decision Boundary for Few-Shot Class-Incremental Learning" [paper] (AAAI 2025) in PyTorch. If you use the code in this repo for your work, please cite the following bib entries:
+The code repository for "Adaptive Decision Boundary for Few-Shot Class-Incremental Learning" [paper](http://arxiv.org/abs/2504.10976) (AAAI 2025) in PyTorch. If you use the code in this repo for your work, please cite the following bib entries:
 ```
 @inproceedings{li2025adaptive,
   title={Adaptive Decision Boundary for Few-Shot Class-Incremental Learning},
@@ -25,7 +25,7 @@ The whole learning pipline of our model:
 ## Results
 <img src='imgs/results.png' width='900' height='280'>
 
-Please refer to our [paper] for detailed values.
+Please refer to our [paper](http://arxiv.org/abs/2504.10976) for detailed values.
 
 ## Requirements
 - [PyTorch >= version 1.1 and torchvision](https://pytorch.org)
